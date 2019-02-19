@@ -18,3 +18,16 @@ This is by no means exhaustive, and will start by tracking what is happening in 
 * [ ] Update docs.php.net to build from git repos
 * [ ] Update rsync.php.net to build from git repos
 
+### Phase 2: updating other tooling and preparing users
+
+* [ ] Update revcheck and other tools on docs.php.net
+* [ ] Get online editor (edit.php.net) ready for git
+* [ ] Update and/or draft docs on using git for the docs
+* [ ] Announcements (more than one!) that change is coming
+
+### Phase 3: transitioning
+
+* [ ] Disable SVN for docs and update rejection message if someone tries to commit to SVN
+* [ ] Update gitolite-admin for doc repos (commit emails, etc.)
+* [ ] Grant everyone git commit karma
+* [ ] Flip the switch for online editor (if we make it work with git)
