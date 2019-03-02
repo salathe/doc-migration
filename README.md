@@ -20,6 +20,7 @@ This is by no means exhaustive, and will start by tracking what is happening in 
 
 ### Phase 2: updating other tooling and preparing users
 
+* [ ] Add .gitignore (see git-svn show-ignore/create-ignore)
 * [ ] Update revcheck and other tools on docs.php.net
 * [ ] Get online editor (edit.php.net) ready for git
 * [ ] Update and/or draft docs on using git for the docs
